@@ -1,0 +1,17 @@
+{
+    "name": "480-project",
+    "version": "1.0.0",
+    "description": "",
+    "main": "data.js",
+    "type": "module",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "yuqing wu",
+    "license": "ISC",
+    "dependencies": {
+      "mysql": "^2.18.1",
+      "mysql2": "^2.3.3"
+    }
+  }
+  
